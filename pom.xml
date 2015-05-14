@@ -7,7 +7,7 @@
 
     <groupId>com.nlab.svn</groupId>
     <artifactId>project1</artifactId>
-    <version>https://github.com/nithril/jenkins-jobdsl-project1.git</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
